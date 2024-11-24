@@ -4,16 +4,16 @@ import { useInView } from 'react-intersection-observer';
 
 const experiences = [
   {
-    company: "Klipit",
-    role: "DevOps Engineer",
-    period: "April 2024 - Present",
-    description: "Certified AWS Cloud Practitioner. Selected appropriate AWS service based on computing, data, or security requirements. Utilized Docker to containerize applications, improving deployment consistency and reducing environment-related issues. "
+    company: "Accenture",
+    role: "Application Development Senior Analyst",
+    period: "Dec 2021 - Present",
+    description: "Leading development of enterprise applications using React, Node.js, and cloud technologies."
   },
   {
-    company: "The Visualizer",
-    role: "DevOps Engineer",
-    period: "May 2023 - Jan 2024",
-    description: "Selected appropriate AWS service based on computing, data, or security requirements. Reduced the cost usage by 20 %. Implemented cloud policies, managed technology requests and maintained service availability. Migrated on-premises application to AWS EC2 instances, achieving a 20 %, achieving 20 % reduction in infrastructure costs."
+    company: "Accenture",
+    role: "Application Development Analyst",
+    period: "Dec 2019 - Dec 2021",
+    description: "Developed and maintained full-stack applications, focusing on performance optimization and user experience."
   }
 ];
 
