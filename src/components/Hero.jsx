@@ -23,9 +23,7 @@ export default function Hero() {
         <div className="text-xl md:text-2xl text-gray-600 mb-8 h-[60px]">
           <TypeAnimation
             sequence={[
-              'Software Engineer',
-              1000,
-              'Full Stack Developer',
+              'DevOps Engineer',
               1000,
               'Cloud Enthusiast',
               1000,
