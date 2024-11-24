@@ -22,9 +22,7 @@ export default function About() {
             About Me
           </h2>
           <p className="mt-4 max-w-3xl text-xl text-gray-600 lg:mx-auto leading-relaxed">
-            Passionate software engineer with expertise in full-stack development and a strong foundation in computer science. 
-            Experienced in building scalable applications and working with modern technologies.
-          </p>
+          Results-driven DevOps professional with over 3 years (total experience) of hands-on experience, specializing in AWS cloud services and Microsoft Azure services and holding certification as an AWS Certified Cloud Practitioner and Microsoft Certified Azure Fundamentals (AZ-900). Proven track record in optimizing development workflows, implementing and enhancing overall system reliability.          </p>
         </motion.div>
       </div>
     </section>
