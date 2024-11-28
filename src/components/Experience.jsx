@@ -14,7 +14,20 @@ const experiences = [
     role: "DevOps Engineer",
     period: "May 2023 - Jan 2024",
     description: "Selected appropriate AWS service based on computing, data, or security requirements. Reduced the cost usage by 20 %. Implemented cloud policies, managed technology requests and maintained service availability. Migrated on-premises application to AWS EC2 instances, achieving a 20 %, achieving 20 % reduction in infrastructure costs."
-  }
+  },
+  {
+    company: "HungerRush",
+    role: "Junior DevOps Engineer",
+    period: "Jan 2023 - April 2023",
+    description: "Achieved Microsoft-certified Azure Fundamentals Certificate (Az-900).  Maintenance of the Azure Release Pipelines. Managing Azure Virtual Machines for QA. Creating Logic Apps for Exceptions Report Generation. Helped the POS (Point of Sale) QA team with their major Release by solving complex test cases."
+  },
+  {
+    company: "HungerRush",
+    role: "Mobile Apps Deployment Specialist",
+    period: "Oct 2020 - Dec 2022", 
+    description: 
+    "Submitted more than 500 Android and iOS apps. Provided status updates to inform upper management and reach goals. Advised on project costs, concepts, or design changes. Recorded systems information and documented design specifications and installation instructions. Designed and conducted hardware or software systems testing. Consulted with function, UX and UI designers to improve application design."
+   }
 ];
 
 export default function Experience() {

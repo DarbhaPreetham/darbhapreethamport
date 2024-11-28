@@ -3,16 +3,7 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
 const skills = [
-  "JavaScript",
-  "React.js",
-  "Node.js",
-  "Python",
-  "Java",
-  "SQL",
-  "AWS",
-  "Docker",
-  "Git",
-  "Agile Methodologies"
+"Amazon Web Services", "Amazon EC2"," AWS Lambda", "Amazon Elastic Container Service (ECS)", "Amazon Simple Storage Service (S3)", "Amazon Virtual Private Cloud (VPC)", "Amazon Route 53", "AWS Identity and Access Management (IAM)", "Amazon CodeCommit", "Microsoft Azure", "Azure Logic Apps", "Azure Pipelines", "CI/CD", "JavaScript", "Python", "Git", "HTML", "CSS", "Shell Scripting", "GitHub", "Docker", "Kubernetes", "Jenkins", "Terraform", "Prometheus", "Grafana", "Linux", "Mac OS", "Windows", "Android Studio", "iOS", "Xcode", "SDK"
 ];
 
 export default function Skills() {
